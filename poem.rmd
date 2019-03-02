@@ -16,8 +16,20 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+’Twas brillig, and the slithy toves
+
+      Did gyre and gimble in the wabe: 
+
+All mimsy were the borogoves, 
+
+      And the mome raths outgrabe. 
+
+“Beware the Jabberwock, my son! 
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+
+
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
